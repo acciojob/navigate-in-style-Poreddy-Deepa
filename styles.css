@@ -5,13 +5,14 @@
 }
 
 #navbar li{
-		display:flex;
+		display:inine;
 	margin-right:1rem;
 }
-/* 	
-	#navbar ul{
+	
+ 	#navbar ul{
 		list-style:none;
 		padding:0;
+		display:flex;
+
 	}
-	 */
 
