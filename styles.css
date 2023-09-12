@@ -1,7 +1,11 @@
 /*  your css code here. If applicable */
-.nav{
+#navbar{
 	background-color:#D3D3D3;
 	padding:10px;
-	display:inline;
+
+#navbar li{
+		display:inline;
 	margin-right:1rem;
 }
+	
+
