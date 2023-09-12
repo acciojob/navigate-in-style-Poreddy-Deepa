@@ -7,5 +7,9 @@
 		display:inline;
 	margin-right:1rem;
 }
+	#navbar ul{
+		list-style:none;
+		padding:0;
+	}
 	
 
